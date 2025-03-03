@@ -1,12 +1,4 @@
-/*
 
-Name: Nouman Ahmad
-Class: CS-E;
-instructor: Ma'am Nimra
-Roll no: i21-0727
-
-
-*/
 #include<iostream>		//input output stream libraray or header file
 
 #include<string>		//string data type related function like strcpy and more
