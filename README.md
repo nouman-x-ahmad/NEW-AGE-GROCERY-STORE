@@ -40,7 +40,7 @@ This project is a testament to the power of object-oriented programming in creat
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/nouman-x-ahmad/NEW-AGE-GROCERY-STORE.git](https://www.google.com/search?q=https://github.com/nouman-x-ahmad/NEW-AGE-GROCERY-STORE.git)
+   !git clone https://github.com/nouman-x-ahmad/NEW-AGE-GROCERY-STORE.git
    cd NEW-AGE-GROCERY-STORE
 2. Compile the source files:
    ```bash
