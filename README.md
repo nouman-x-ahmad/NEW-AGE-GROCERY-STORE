@@ -3,9 +3,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub last commit](https://img.shields.io/github/last-commit/nouman-x-ahmad/NEW-AGE-GROCERY-STORE)](https://github.com/nouman-x-ahmad/NEW-AGE-GROCERY-STORE/commits/main)
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=New+Age+Grocery+Store" alt="Project Image" width="800">
-</p>
 
 ## Overview
 
@@ -186,7 +183,7 @@ classDiagram
     productcat <|-- rawalpindi
 
 ```
-*_______________________________________________________________________________________________________________________________________________________*
+---
 ### Sequence Diagram: 
 ```mermaid
 sequenceDiagram
@@ -217,7 +214,7 @@ This sequence diagram illustrates the flow of interactions between different com
 
 This diagram provides a visual representation of the system's dynamic behavior, making it easier to understand how different parts of the application interact with each other.
 
-*_______________________________________________________________________________________________________________________________________________________*
+---
 
 ## License:
 *License
